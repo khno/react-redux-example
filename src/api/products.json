@@ -1,0 +1,5 @@
+[
+  {"id": 1, "title": "《JavaScript 权威指南》", "price": 136.20, "inventory": 3},
+  {"id": 2, "title": "《Python核心编程》", "price": 44.50, "inventory": 8},
+  {"id": 3, "title": "《C程序设计》", "price": 45.00, "inventory": 2}
+]

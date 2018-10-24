@@ -1,0 +1,22 @@
+
+.products-container{
+    background: #f1f1f1;
+    border: 1px solid #ddd;
+    padding: 10px;
+}
+.cart-container{
+    background: #f1f1f1;
+    border: 1px solid #ddd;
+    padding: 10px;
+}
+.add-btn{
+    margin-left: 30px;
+}
+.submit-btn{
+    margin-top: 20px;
+    width: 200px;
+    height: 30px;
+    line-height: 30px;
+    cursor: pointer;
+    font-size: 14px;
+}
